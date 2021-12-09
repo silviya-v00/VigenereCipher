@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigenereCipher", "VigenereCipher\VigenereCipher.csproj", "{840B83AC-D299-4AFA-B1F4-DFE58D186525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{840B83AC-D299-4AFA-B1F4-DFE58D186525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840B83AC-D299-4AFA-B1F4-DFE58D186525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840B83AC-D299-4AFA-B1F4-DFE58D186525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840B83AC-D299-4AFA-B1F4-DFE58D186525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2FFC2B9-B972-4149-B2F2-F754BD3B4761}
+	EndGlobalSection
+EndGlobal
